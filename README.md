@@ -18,3 +18,5 @@ Se crea API
 
 Se crea Frontend en React Native
 
+![image](https://github.com/user-attachments/assets/595c3769-6ce3-4ec6-b696-8f3025d08e54)
+
