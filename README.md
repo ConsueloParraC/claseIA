@@ -14,7 +14,7 @@ Enlace del ejercicio en google colab https://colab.research.google.com/drive/17X
 
 ![image](https://github.com/user-attachments/assets/9a609b5a-4072-4b31-895c-0b3ae0237197)
 
-## Se prueba la API
+## Se prueba el API
 
 ![image](https://github.com/user-attachments/assets/4f4f02f5-3147-4540-b663-55057fbfdab0)
 
